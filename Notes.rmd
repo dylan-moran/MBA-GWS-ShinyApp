@@ -1,0 +1,6 @@
+# Notes for development and improvement of GWS Shiny app
+
+### Get script to run correctly
+- Install required packages
+- - Packages would not show up as installed despite having installed them
+- - Download Rtools43 to default location 
